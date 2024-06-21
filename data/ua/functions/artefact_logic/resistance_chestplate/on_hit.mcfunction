@@ -1,0 +1,2 @@
+scoreboard players set resistance_chestplate_cooldown unique_artefacts 0
+effect clear @s minecraft:resistance

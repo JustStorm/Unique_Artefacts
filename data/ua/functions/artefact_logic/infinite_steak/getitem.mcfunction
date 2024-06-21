@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Health:20000,Item:{id:"minecraft:cooked_beef",Count:1b,tag:{Soulbound:1,Enchantments:[{id:vanishing_curse,lvl:1}],HideFlags:1,display:{Name:'[{"text":"Артефакт Кулинарии","italic":"false","bold":true,"color":"gold"}]',Lore:['[{"text":"Этот стейк можно есть вечно..."}]','[{"text":"Или может, когда-нибудь он закончится?"}]']}}}}

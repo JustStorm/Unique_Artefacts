@@ -1,0 +1,2 @@
+execute if score resistance_chestplate_cooldown unique_artefacts >= resistance_chestplate unique_artefacts_settings run effect give @s minecraft:resistance 1 255 true
+execute if score resistance_chestplate_cooldown unique_artefacts >= resistance_chestplate unique_artefacts_settings as @s[nbt=!{HurtTime:0s}] run function ua:artefact_logic/resistance_chestplate/on_hit

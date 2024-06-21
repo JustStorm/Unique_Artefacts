@@ -1,0 +1,12 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "chest": {
+        "items": ["minecraft:netherite_chestplate"],
+		"nbt": "{Soulbound:1}"
+      }
+    }
+  }
+}

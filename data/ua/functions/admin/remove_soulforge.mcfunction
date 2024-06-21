@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:interaction,distance=..50,sort=nearest,limit=1,tag=Soulforge] at @s run function ua:soulforge/demolish

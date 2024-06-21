@@ -1,0 +1,1 @@
+give @s stick{Activator:1} 1

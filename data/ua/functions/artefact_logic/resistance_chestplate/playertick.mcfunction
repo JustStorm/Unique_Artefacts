@@ -1,0 +1,2 @@
+execute as @a[tag=resistance_chestplate_bound,predicate=ua:artefact_logic/resistance_chestplate/is_wearing] run function ua:artefact_logic/resistance_chestplate/manage_effect
+schedule function ua:artefact_logic/resistance_chestplate/playertick 5t replace

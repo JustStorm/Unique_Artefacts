@@ -1,0 +1,2 @@
+execute if score resistance_chestplate_cooldown unique_artefacts < resistance_chestplate unique_artefacts_settings run scoreboard players add resistance_chestplate_cooldown unique_artefacts 1
+execute store result bossbar minecraft:chestplate_cd value run scoreboard players get resistance_chestplate_cooldown unique_artefacts

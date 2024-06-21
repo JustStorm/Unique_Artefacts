@@ -1,0 +1,1 @@
+execute if entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:dragon_breath",Count:1b}}] if entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:amethyst_shard",Count:1b}}] if entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:glowstone_dust",Count:1b}}] if score forge_action unique_artefacts matches 1 run scoreboard players set forge_action unique_artefacts 4

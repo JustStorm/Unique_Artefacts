@@ -1,0 +1,2 @@
+execute as @e[distance=..5,predicate=ua:sacrifice_hurt] at @s align xyz positioned ~0.5 ~ ~0.5 unless entity @e[distance=..1,type=minecraft:area_effect_cloud,tag=ua_sacrifice_mark] run summon minecraft:area_effect_cloud ~ ~ ~ {Duration:2147483647,Radius:0,Tags:["ua_sacrifice_mark"]}
+advancement revoke @a only ua:sacrifice_mark

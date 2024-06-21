@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Health:20000,Item:{id:"minecraft:bow",Count:1,tag:{Soulbound:1,Unbreakable:1,display:{Name:'[{"text":"Артефакт Хаоса","italic":false,"color":"gold","bold":true}]',Lore:['[{"text":"Этот артефакт несёт разрушения..."}]','[{"text":"Используйте его с осторожностью."}]']},Enchantments:[{id:vanishing_curse,lvl:1}],HideFlags:7}}}

@@ -1,0 +1,1 @@
+execute if data entity @s interaction at @s run function ua:soulforge/small/on_click

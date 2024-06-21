@@ -1,0 +1,1 @@
+execute if entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:lightning_rod",Count:1b}}] if entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:diamond_block",Count:1b}}] if entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:wither_skeleton_skull",Count:1b}}] run scoreboard players set forge_action unique_artefacts 3

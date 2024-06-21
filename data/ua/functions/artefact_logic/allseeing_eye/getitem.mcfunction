@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Health:20000,Item:{id:"minecraft:ender_eye",Count:1,tag:{Soulbound:1,display:{Name:'[{"text":"Артефакт Осведомлённости","italic":false,"color":"gold","bold":true}]',Lore:['[{"text":"С ним вы можете на мгновенье ощутить"}]','[{"text":"присутствие живых сущностей поблизости."}]']},Enchantments:[{id:vanishing_curse,lvl:1}],HideFlags:7}}}

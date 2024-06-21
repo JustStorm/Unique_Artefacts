@@ -1,0 +1,8 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+	"type": "minecraft:ender_pearl",
+    "nbt": "{Item:{id:\"minecraft:ender_pearl\",tag:{Soulbound:1}}}"
+  }
+}

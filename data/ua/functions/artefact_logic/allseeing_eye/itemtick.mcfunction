@@ -1,0 +1,1 @@
+execute as @s[predicate=ua:is_artefact/allseeing_eye] if data entity @s Thrower if entity @a[tag=allseeing_eye_bound,predicate=ua:has_artefact/allseeing_eye] at @s run function ua:artefact_logic/allseeing_eye/cleardropped

@@ -1,0 +1,1 @@
+execute as @a[tag=infinite_steak_bound,predicate=ua:artefact_logic/infinite_steak/is_holding] at @s run function ua:artefact_logic/infinite_steak/getitem
